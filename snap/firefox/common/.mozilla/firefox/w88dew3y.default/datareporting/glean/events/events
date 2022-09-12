@@ -1,0 +1,7 @@
+{"timestamp":726324,"category":"nimbus_events","name":"enrollment","extra":{"enrollment_id":"bd77e29b-f9fd-4bce-9519-9c9f5bfa1208","branch":"sync-after-tab","experiment":"task-continuity-sync-after-tab-change-rollout-40","experiment_type":"nimbus"}}
+{"timestamp":726342,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"nimbus","branch":"control","enrollment_id":"eb0636fb-bd6e-47cf-b272-d9923e9e6dde","experiment":"tcp-rollout-phase-iii-tcp-on-by-default-for-50-existing-release-profiles"}}
+{"timestamp":726427,"category":"nimbus_events","name":"enroll_failed","extra":{"experiment":"tcp-rollout-phase-iii-tcp-on-by-default-for-95-existing-release-profiles","reason":"feature-conflict"}}
+{"timestamp":772501,"category":"perf","name":"page_load","extra":{"js_exec_time":"319","fcp_time":"34261","response_time":"33480","load_time":"36336","load_type":"NORMAL"}}
+{"timestamp":874181,"category":"nimbus_events","name":"enroll_failed","extra":{"experiment":"tcp-rollout-phase-iii-tcp-on-by-default-for-95-existing-release-profiles","reason":"feature-conflict"}}
+{"timestamp":1267308,"category":"perf","name":"page_load","extra":{"fcp_time":"3893","js_exec_time":"164","load_time":"5704","load_type":"NORMAL","response_time":"3695"}}
+{"timestamp":2263077,"category":"perf","name":"page_load","extra":{"load_type":"LINK","fcp_time":"53636","js_exec_time":"145","load_time":"87666","response_time":"48681"}}
